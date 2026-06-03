@@ -2,9 +2,8 @@
 
 <br />
 
-I'm Harmeet, a senior undergraduate student at IIT Kharagpur, hailing from Chandigarh. I am a competitive programmer with a passion for building scalable systems. In my free time, I love to read about psychology and spirituality. 
+I'm Harmeet, a recent grad from IIT Kharagpur, hailing from Chandigarh. I am a programmer with a passion for building scalable systems
 
-Feel free to contact me at harmeet.s.rathore@gmail.com.
-
+Feel free to reach out harmeet.s.rathore@gmail.com.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
